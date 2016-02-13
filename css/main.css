@@ -1,0 +1,135 @@
+.beginpage {
+background-color: white;
+}
+
+.spacefiller {
+background-color: white;
+height: 70px;
+}
+
+.stripe {
+background-color: #bfbfbf;
+height: 5px;
+margin-left: 20px;
+margin-right: 20px; 
+margin-bottom: 10px;
+}
+
+#youtubepage {
+background-color: white;
+height: 100%;
+}
+
+#facebookpage {
+background-color: white;
+height: 100%;
+}
+
+#twitterpage {
+background-color: white;
+height: 100%;
+}
+
+#instagrampage {
+background-color: white;
+height: 100%;
+}
+
+#tumblrpage {
+background-color: white;
+height: 100%;
+}
+
+#snapchatpage {
+background-color: white;
+height: 100%;
+}
+
+#whatsapppage {
+background-color: white;
+height: 100%;
+}
+
+.jumbotron {
+font-family: 'Limelight', Courier, sans-serif;
+text-align: center;
+background-color: white;
+}
+
+.nav {
+font-family: Courier, sans-serif;
+}
+
+.button {
+margin-left: 4%;
+}
+
+.buttonimage {
+border-radius: 20px;
+height: 250;
+width: 250;
+margin-bottom: 20px;
+}
+
+.pictures {
+text-align: center;
+}
+
+.screenshot {
+margin-right: 5%;
+height: 50%;
+width: 50%;
+border: 0;
+float: right;
+}
+
+.jumbotube {
+background-color: #e52d27;
+color: white;
+}
+
+.jumbofb {
+background-color: #3b5998;
+color: white;
+}
+
+.jumbotwit {
+background-color: #4099ff;
+color: white;
+}
+
+.jumboinsta {
+background-color: #9b6954;
+color: white;
+}
+
+.jumbotumblr {
+background-color: #35465c;
+color: white;
+}
+
+.jumbosnap {
+background-color: #fffc00;
+color: white;
+}
+
+.jumbowhapp {
+background-color: #43d854;
+color: white;
+}
+
+.infotext {
+margin-left: 2%;
+float: left;
+width: 40%;
+font-family: Courier;
+}
+
+footer {
+font-family: Courier;
+margin-left: 2%;
+}
+
+.spacefillertwo {
+height: 40px;
+}
