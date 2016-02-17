@@ -4,56 +4,38 @@ background-color: white;
 
 .spacefiller {
 background-color: white;
-height: 70px;
+height: 130px;
 }
 
 .stripe {
 background-color: #bfbfbf;
 height: 5px;
 margin-left: 20px;
-margin-right: 20px; 
+margin-right: 20px;
 margin-bottom: 10px;
 }
 
-#youtubepage {
+.page {
 background-color: white;
-height: 100%;
+margin: -30;
 }
 
-#facebookpage {
-background-color: white;
-height: 100%;
-}
-
-#twitterpage {
-background-color: white;
-height: 100%;
-}
-
-#instagrampage {
-background-color: white;
-height: 100%;
-}
-
-#tumblrpage {
-background-color: white;
-height: 100%;
-}
-
-#snapchatpage {
-background-color: white;
-height: 100%;
-}
-
-#whatsapppage {
-background-color: white;
-height: 100%;
-}
-
-.jumbotron {
+.hdr {
 font-family: 'Limelight', Courier, sans-serif;
 text-align: center;
 background-color: white;
+border-radius: 0px;
+margin-bottom: 30px;
+height: 220px;
+padding: 40px;
+}
+
+.hdrmaintext {
+font-size: 70px;
+}
+
+.hdrsubtext {
+font-size: 20px;
 }
 
 .nav {
@@ -76,11 +58,8 @@ text-align: center;
 }
 
 .screenshot {
-margin-right: 5%;
-height: 50%;
-width: 50%;
 border: 0;
-float: right;
+width: 100%;
 }
 
 .jumbotube {
@@ -120,8 +99,6 @@ color: white;
 
 .infotext {
 margin-left: 2%;
-float: left;
-width: 40%;
 font-family: Courier;
 }
 
